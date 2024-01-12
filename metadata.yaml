@@ -1,0 +1,35 @@
+_repo: Travels-in-Africa-Egypt-and-Syria-from-the-year-1792-to-1798_72452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browne, William George
+    alias: Browne, W. G. (William George)
+    birthdate: 1768
+    deathdate: 1813
+    gutenberg_agent_id: '56686'
+    url: http://www.gutenberg.org/2009/agents/56686
+    wikipedia: https://en.wikipedia.org/wiki/William_George_Browne
+description: ''
+gutenberg_issued: '2023-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72452'
+language: en
+pgterms:marc904: https://archive.org/details/travelsinafricae00brow
+pgterms:marc905: 20231204231948browne
+pgterms:marc906: '1799'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bT. Cadell junior and W. Davies, $c1799.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sudan -- Description and travel'
+- !lcsh 'Egypt -- Description and travel'
+- !lcsh 'Syria -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: Travels in Africa, Egypt, and Syria, from the year 1792 to 1798
+url: http://www.gutenberg.org/ebooks/72452
