@@ -1,5 +1,8 @@
 _repo: Travels-in-Africa-Egypt-and-Syria-from-the-year-1792-to-1798_72452
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72452-h/images/cover.jpg
 creator:
   author:
     agent_name: Browne, William George
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56686
     wikipedia: https://en.wikipedia.org/wiki/William_George_Browne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72452#Travels-in-Africa-Egypt-and-Syria-from-the-year-1792-to-1798
 gutenberg_issued: '2023-12-18'
 gutenberg_type: Text
 identifiers:
